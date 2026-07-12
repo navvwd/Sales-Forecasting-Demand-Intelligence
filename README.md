@@ -1,2 +1,3 @@
 # Sales-Forecasting-Demand-Intelligence
 End-to-end sales forecasting and demand intelligence system using SARIMA, Prophet, XGBoost, anomaly detection, K-Means clustering, and an interactive Streamlit dashboard.
+This internship project analyzes four years of retail sales data to forecast future demand, identify unusual sales patterns, and segment product categories based on demand behaviour. It compares SARIMA, Prophet, and XGBoost models, uses Isolation Forest and Z-Score methods for anomaly detection, applies K-Means clustering for inventory segmentation, and presents the results through an interactive Streamlit dashboard.
